@@ -12,3 +12,8 @@ A brief description of my Github account: I made the account on January 8, 2021 
 A brief description of the repository I created: Created it on September 17, 2024 it is named samialkasas and is located on a file named GitHub. 
 
 A brief description of the steps I took to clone the repository onto My local machine: First I made the repository on google, then I downloaded the GitHub desktop app, then I clone a repository and chose the repository and put it in the GitHub file on my pc.
+
+
+#About ME 
+##My Interests 
+##Websites I Recommend
