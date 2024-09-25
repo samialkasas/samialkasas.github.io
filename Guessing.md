@@ -8,6 +8,7 @@ flowchart TD
     CheckGuess -->|Too Low| FeedbackLow[Provide Feedback: Too Low] --> GetGuess
     CheckGuess -->|Too High| FeedbackHigh[Provide Feedback: Too High] --> GetGuess
     CheckGuess -->|Correct| End([End Game])
+```
 ## Flowchart Description
 1. **Start Game**: The game begins, and the computer generates a random number.
 2. **Generate Random Number**: The computer randomly selects a number.
